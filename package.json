@@ -1,0 +1,24 @@
+{
+  "name": "notepad-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/notepad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sina-yeganeh/notepad-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sina-yeganeh/notepad-clone/issues"
+  },
+  "homepage": "https://github.com/sina-yeganeh/notepad-clone#readme",
+  "dependencies": {
+    "electron": "^15.3.0"
+  }
+}
